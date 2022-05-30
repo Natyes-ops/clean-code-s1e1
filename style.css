@@ -83,7 +83,8 @@ button:hover {
   text-transform: uppercase;
 }
 
-.edit-mode__input {
+.edit-mode__input,
+#top-section__task-new {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
